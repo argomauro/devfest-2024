@@ -5,11 +5,7 @@
         <v-col md="12">
           <h1>Team</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            La nostra missione è dotare i membri della nostra comunità di competenze pratiche, permettendo loro di comunicare le loro intuizioni e promuovere soluzioni innovative in modo efficace. Qualunque sia la tua sfida, questi leader, in prima linea nella trasformazione, innovazione ed esplorazione, ti aiuteranno a risolverla insieme a te.
           </p>
         </v-col>
       </v-row>

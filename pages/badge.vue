@@ -5,11 +5,10 @@
         <v-col md="6" sm="7" cols="12">
           <h1>Badge</h1>
           <p class="mt-2">
-            Upload an image and generate a personalized badge with the DevFest
-            frame.
+            Carica un'immagine e genera un badge personalizzato con la cornice DevFest. Questo ti permetterà di creare un badge unico che mostra la tua partecipazione all'evento, rendendo il tuo profilo facilmente riconoscibile e mettendo in evidenza il tuo coinvolgimento nella comunità. Assicurati che l'immagine sia di alta qualità per ottenere il miglior risultato possibile con la cornice.
           </p>
 
-          <p class="mt-8">Select an Image</p>
+          <p class="mt-8">Seleziona un'immagine</p>
 
           <v-btn
             class="mt-4 mb-5"
@@ -20,7 +19,7 @@
             variant="flat"
             style="border: 1.5px solid #1e1e1e; color: black;text-transform: capitalize"
           >
-            Upload Image
+            Carica immagine
             <v-icon>mdi-tray-arrow-up</v-icon>
           </v-btn>
           <input
@@ -52,8 +51,7 @@
           </div>
           <p class="mt-8 mb-md-0">
             <span>
-              *&nbsp; We respect your privacy and are not storing your pictures
-              on our servers.
+              *&nbsp; Nel rispetto della tua privacy non memorizzeremo l'immagine sui nostri server
             </span>
           </p>
         </v-col>

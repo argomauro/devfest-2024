@@ -4,7 +4,7 @@
       <v-row>
         <v-col md="8">
           <h1>Frequently asked questions</h1>
-          <p>Need Answers? Everything you need to know</p>
+          <p>Hai bisogno di risposte? Tutto quello che devi sapere è disponibile nella sezione FAQ dell'evento, dove troverai informazioni dettagliate sui programmi, le linee guida per la partecipazione, le politiche dell'evento e come sfruttare al meglio la tua esperienza al DevFest. Assicurati di controllare la pagina ufficiale dell'evento o di contattare gli organizzatori per qualsiasi domanda specifica. Resta informato per ottenere il massimo dall'evento!</p>
 
           <v-expansion-panels
             class="mb-6 mt-10"

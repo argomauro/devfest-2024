@@ -5,9 +5,7 @@
         <v-col md="12">
           <h1>Agenda</h1>
           <p>
-            Follow code demonstrations by our expert speakers on different
-            tracks. Check out the schedule below and don't forget to mark your
-            calendar so that you don't miss out on any sessions.
+            Segui le dimostrazioni di codice presentate dai nostri esperti su diverse tematiche. Esplora il programma qui sotto e assicurati di segnare le date nel tuo calendario per non perdere nessuna sessione. Inoltre, partecipa attivamente alle discussioni e approfitta delle opportunità per imparare e crescere. Questo evento è progettato per offrirti un'esperienza formativa completa, quindi preparati a immergerti in un mondo di conoscenze e innovazioni tecniche. Non perdere l'occasione di aggiornarti sulle ultime tecnologie e di connetterti con altri professionisti del settore.
           </p>
         </v-col>
       </v-row>

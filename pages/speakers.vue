@@ -5,10 +5,7 @@
         <v-col md="12">
           <h1>Speakers</h1>
           <p>
-            Our speakers are influential leaders and allies actively involved in
-            various communities within their organizations, cities, countries,
-            and beyond, making a significant impact through their contributions
-            and support.
+            I nostri relatori sono leader influenti e alleati attivamente coinvolti in varie comunità all'interno delle loro organizzazioni, città, paesi e oltre, apportando un impatto significativo attraverso i loro contributi e il loro sostegno.
           </p>
         </v-col>
       </v-row>
