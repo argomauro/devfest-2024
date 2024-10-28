@@ -4,6 +4,16 @@
         "date": "30 Novembre",
         "schedule": [
             {
+                "startTime": "09:00",
+                "endTime": "10:00",
+                "session": 1011
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:30",
+                "session": 1015
+            },
+            {
                 "startTime": "10:30",
                 "endTime": "11:15",
                 "session": 1010
@@ -14,6 +24,11 @@
                 "session": 1002
             },
             {
+                "startTime": "12:00",
+                "endTime": "12:15",
+                "session": 1012
+            },
+            {
                 "startTime": "12:15",
                 "endTime": "13:00",
                 "session": 1003
@@ -22,7 +37,17 @@
                 "startTime": "13:00",
                 "endTime": "13:30",
                 "session": 1004
-            }
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "13:30",
+                "session": 1013
+            },
+            {
+                "startTime": "16:30",
+                "endTime": "17:00",
+                "session": 1014
+            },
         ]
     }
 ]
