@@ -6,9 +6,10 @@
           style="background-color: #eeeeee; border-radius: 20px;border: 1.5px solid black;"
           class="pa-8"
         >
-          <h1>Stay updated on the products you love</h1>
+          <h1>Rimani aggiornato sulle ultime novità in ambito IA, FrontEnd e BackEnd</h1>
           <p>
-            This DevFest we are focusing on the technologies that are trending in the market and are in demand. Let's come together and learn about these technologies from industry leading experts.
+            Quest anno a Matera tieniti al passo con le ultime innovazioni in Intelligenza Artificiale, Frontend e Backend! 
+            Partecipa a sessioni tecniche, laboratori interattivi e momenti di networking per ampliare le tue competenze e fare rete con la community.
           </p>
           <v-container fluid>
             <v-row justify-start align="start">
