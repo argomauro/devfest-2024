@@ -31,25 +31,25 @@
     "stats": [
       {
         "name": "Speakers",
-        "value": "23+",
+        "value": "6+",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Participanti",
-        "value": "200+",
+        "value": "200",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "10+",
+        "value": "7+",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
       {
         "name": "Workshops",
-        "value": "2+",
+        "value": "1+",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
@@ -60,33 +60,33 @@
         "description": "Eventi organizzati dalla comunità dei Google Developer Groups, con la partecipazione di esperti di spicco nelle tecnologie Google in vari settori."
       },
       {
-        "title": "Contenuti tecnici",
-        "description": "Eventi organizzati dalla comunità dei Google Developer Groups, con la partecipazione di esperti di spicco nelle tecnologie Google in vari settori."
+        "title": "Workshop e Laboratori Pratici",
+        "description": "Sessioni interattive per mettere subito in pratica le tecnologie Google. Ideali per imparare facendo, con il supporto di esperti e di una comunità affiatata."
       },
       {
-        "title": "Contenuti tecnici",
-        "description": "Eventi organizzati dalla comunità dei Google Developer Groups, con la partecipazione di esperti di spicco nelle tecnologie Google in vari settori."
+        "title": "Networking e Collaborazione",
+        "description": "Unisciti a una rete di sviluppatori, professionisti e appassionati del settore. Condividi idee, partecipa a progetti collaborativi e costruisci relazioni durature."
       }
     ],
     "pastDevFest": {
       "summery": "Questa è la prima DevFest Basilicata",
-      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "images": [],
       "stats": [
         {
           "name": "Speakers",
-          "value": "23+"
+          "value": ""
         },
         {
           "name": "Participants",
-          "value": "200+"
+          "value": ""
         },
         {
           "name": "Sessions",
-          "value": "10+"
+          "value": ""
         },
         {
           "name": "Workshops",
-          "value": "2+"
+          "value": ""
         }
       ]
     }
