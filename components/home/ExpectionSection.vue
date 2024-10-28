@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-row>
       <v-col md="12" sm="12">
-        <h1>What to Expect</h1>
+        <h1>Cosa aspettarsi</h1>
         <p>
           Unisciti a una giornata di formazione e networking con workshop pratici,
           sessioni tecniche su tecnologie Google, la possibilità di connettersi con esperti e appassionati del settore
