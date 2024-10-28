@@ -2,13 +2,13 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "title": "Scale your project with NX",
+        "description": "Are your teams or your projects growing up? Is your build slower every day and your team tired? Your projects are not well structured or do you need to split better your code?<br>Using NX all of these problems can be resolved. In this talk, I'll show you how you can improve the developer experience of your team by introducing NX.",
+        "track": "1",
+        "link": "",
+        "time": "To be Dated",
+        "format": "",
+        "date": "Nov 30, 2024",
         "timeDuration": "40",
         "speakers": [
             101
@@ -17,46 +17,46 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Devcontainers",
+        "description": "Conteinerization applied at you development environment",
+        "track": "1",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "time": "To be Dated",
+        "format": "",
+        "date": "Nov 30, 2024",
         "timeDuration": "40",
         "speakers": [
-            101
+            102
         ]
     },
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Evoluzione dei Motori di Ricerca: Il Ruolo Critico del RAG e dell'IA",
+        "description": "Questo talk esplora il ruolo trasformativo del Retrieval-Augmented Generation (RAG) e dell'Intelligenza Artificiale (IA) nei motori di ricerca moderni. Dopo una breve riepilogo del funzionamento dei motori di ricerca tradizionali, affronteremo una panoramica dettagliata delle tecnologie dei RAG e IA, delineando i principi fondamentali e le modalità di integrazione nei sistemi di ricerca attuali prendendo come esempio Langchain. Successivamente, analizzeremo l'impatto di queste tecnologie sul miglioramento della precisione, della velocità e della personalizzazione nelle esperienze di ricerca, supportato da casi di studio e metriche di performance. Discuteremo le sfide tecniche, inclusi i problemi di scalabilità e sicurezza dei dati. Infine vedremo come queste tecnologie stiano configurando il futuro dei motori di ricerca, con un'attenzione particolare alle innovazioni in corso e alle potenziali applicazioni future. Questo talk è destinato a offrire agli ascoltatori una panoramica completa delle potenzialità e delle sfide che l'AI sta apportando nel mondo del information retrieval.",
+        "track": "1",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "time": "To be Dated",
+        "format": "",
+        "date": "Nov 30, 2024",
         "timeDuration": "40",
         "speakers": [
-            102, 101
+            103
         ]
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Basta scimmie: diventiamo product engineers!",
+        "description": "Molti sviluppatori sono stanchi di essere trattati come 'macchine sputa codice' e aspirano a un ruolo più significativo nel processo di creazione del prodotto. Desiderano essere visti come professionisti competenti e creativi, capaci di contribuire ben oltre la semplice scrittura di codice.<br>Questi professionisti vogliono essere coinvolti fin dalle prime fasi della progettazione, portando il loro punto di vista tecnico nella definizione delle caratteristiche del prodotto. Sono ansiosi di comprendere a fondo le esigenze degli utenti e le sfide aziendali che il software deve affrontare.<br>Gli sviluppatori di oggi sono pronti a espandere le proprie competenze, abbracciando aree come il design dell'esperienza utente, l'analisi dei dati e la strategia di prodotto. Vogliono partecipare attivamente alle discussioni su come il software possa risolvere problemi reali e creare valore per l'azienda e gli utenti finali.<br>Vogliono essere parte integrante del processo decisionale, non semplici esecutori di specifiche tecniche.<br>Vogliono lasciare un'impronta significativa nei progetti a cui lavorano, contribuendo con idee, creatività e una profonda comprensione sia della tecnologia che delle esigenze del business.",
+        "track": "1",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
-        "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "time": "To be Dated",
+        "format": "",
+        "date": "Nov 30, 2024",
         "timeDuration": "40",
         "speakers": [
-            102
+            104
         ]
     }
 ]
