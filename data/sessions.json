@@ -54,9 +54,80 @@
         "time": "To be Dated",
         "format": "",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "30",
         "speakers": [
             104
         ]
+    },
+    {
+        "id": "1011",
+        "slide": "",
+        "title": "CHECK IN",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "9:00 ",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "60",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1012",
+        "slide": "",
+        "title": "PASUA CAFFE",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "12:00 ",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "15",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1013",
+        "slide": "",
+        "title": "PAUSA PRANZO",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "13:00 ",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "90",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1014",
+        "slide": "",
+        "title": "CHIUSURA",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "16:30 ",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "30",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1015",
+        "slide": "",
+        "title": "KEYNOTE",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "10:00 ",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "30",
+        "speakers": [
+        ]
     }
+    
 ]
