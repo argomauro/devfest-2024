@@ -49,5 +49,22 @@
       "github": "",
       "web": ""
     }
+  },
+  {
+    "id": "104",
+    "name": "Giuseppe Silletti",
+    "company": {
+      "name": "peppesilletti.io",
+      "designation": ""
+    },
+    "community_title": "",
+    "image": "https://sessionize.com/image/9dfe-400o400o1-pYnTda9JSh2pUMoKT8uzrX.jpg",
+    "bio": "Negli ultimi dieci anni, Giuseppe ha lavorato prevalentemente come sviluppatore full-stack e tech lead per startup, scale ups e aziende di consulenza. Oggi è socio di Yoop Knows, dove si occupa della parte tecnica e di prodotto e sperimenta modi innovativi di approcciare lo sviluppo software.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/peppesilletti/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
   }
 ]
