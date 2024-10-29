@@ -19,6 +19,11 @@
                 "session": 1005
             },
             {
+                "startTime": "10:30",
+                "endTime": "13:30",
+                "session": 1007
+            },
+            {
                 "startTime": "11:15",
                 "endTime": "12:00",
                 "session": 1002
