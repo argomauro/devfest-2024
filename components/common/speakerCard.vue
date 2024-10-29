@@ -14,7 +14,7 @@
           :alt="props.data.name"
           :src="
             props.data.image.length
-              ? '/img/speakers/' + props.data.image
+              ? props.data.image
               : '/img/common/avatar.png'
           "
         ></v-img>
