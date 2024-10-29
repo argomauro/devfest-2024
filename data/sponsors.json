@@ -20,12 +20,12 @@
           {
               "name":"LaTraccia",
               "link": "https://latraccia.it/",
-              "logo": "/sponsors/sponsor3.jpg"   
+              "logo": "sponsor3.jpg"   
           },
           {
               "name":"Publisys S.P.A.",
               "link": "https://www.publisys.it/",
-              "logo": "/sponsors/sponsor4.png"   
+              "logo": "sponsor4.png"   
           }
       ]
   },
