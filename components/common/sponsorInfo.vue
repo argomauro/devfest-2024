@@ -24,7 +24,7 @@
             <v-tooltip location="bottom" :key="indexp">
               <template v-slot:activator="{ props }">
                 <a aria-label="sponsor name" :href="sponsor.link" target="_blank" v-bind="props">
-                  <v-img alt="sponsor-logo" :src="'/img/sponsors/' + sponsor.logo"></v-img>
+                  <v-img alt="sponsor-logo" :src="getSponsorLogo(sponsor.logo)"></v-img>
                 </a>
               </template>
               <span>{{ sponsor.name }}</span>
@@ -38,6 +38,12 @@
 
 <script setup>
 const { sponsorsData } = useJSONData();
+const getSponsorLogo = (logo) => {
+  if (logo.startsWith('http')) {
+    return logo;
+  }
+  return `/img/sponsors/${logo}`;
+};
 </script>
 
 <style>
