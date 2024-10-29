@@ -75,6 +75,21 @@
         ]
     },
     {
+        "id": "1006",
+        "slide": "",
+        "title": "Taking technical decisions reloaded",
+        "description": "Cosa c'è dietro una decisione tecnica... e cosa c'è dopo?<br>Chi può influenzare una decisione e chi decisamente non dovrebbe...<br>Scopri come evitare pregiudizi e lasciare che i dati guidino le decisioni ed impariamo a progettare un framework decisionale riutilizzabile.",
+        "track": "1",
+        "link": "",
+        "time": "To be Dated",
+        "format": "",
+        "date": "Nov 30, 2024",
+        "timeDuration": "40",
+        "speakers": [
+            106
+        ]
+    },
+    {
         "id": "1011",
         "slide": "",
         "title": "CHECK IN",
