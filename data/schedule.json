@@ -44,6 +44,16 @@
                 "session": 1013
             },
             {
+                "startTime": "15:00",
+                "endTime": "15:45",
+                "session": 1001
+            },
+            {
+                "startTime": "15:45",
+                "endTime": "16:30",
+                "session": 1006
+            },
+            {
                 "startTime": "16:30",
                 "endTime": "17:00",
                 "session": 1014
