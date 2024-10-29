@@ -100,5 +100,22 @@
       "github": "",
       "web": ""
     }
-  }  
+  },
+  {
+    "id": "107",
+    "name": "Carlo Lucera",
+    "company": {
+      "name": "HatDroid!Flutter dev",
+      "designation": "Flutter dev"
+    },
+    "community_title": "",
+    "image": "https://sessionize.com/image/5ec8-400o400o1-KWC8KNSvffQAtHpcQSMhQx.jpg",
+    "bio": "Known as HatDroid, is a Technology enthusiast, former Android, and now Flutter developer, always in search of new technologies and strategies to improve.<br>Flutter Google Developer Expert and Full-time Flutter Developer @Pvotal technologies and admin for Flutter Italia Developers.<br>Always ready to share his experiences and working hard to help the Developer communities grow.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/clucera/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+   }
 ]
