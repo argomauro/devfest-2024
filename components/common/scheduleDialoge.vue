@@ -132,7 +132,7 @@ onMounted(() => {
 
 const getImgUrl = (pic, defaultimage = "avatar.png") => {
   if (pic.length > 0) {
-    return "/img/speakers/" + pic;
+    return pic;
   } else {
     return "/img/common/" + defaultimage;
   }
