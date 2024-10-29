@@ -83,5 +83,22 @@
       "github": "",
       "web": ""
     }
-  }
+  },
+  {
+    "id": "106",
+    "name": "Nicola Gugliemi",
+    "company": {
+      "name": "",
+      "designation": "GDE Cloud • Google Cloud Architect • Google Cloud Authorized Trainer • Team Manager • GDG Community Lead 🚀"
+    },
+    "community_title": "",
+    "image": "https://sessionize.com/image/568d-400o400o1-XE88rcGuZi8wjPvDJgdM9Z.jpg",
+    "bio": "My journey in IT began when I was a child, turning on my first computer. It was a starting point that led me to explore many aspects of the computer and technology world. I was always fascinated by the possibilities that technology offered, and I was eager to learn more.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nicola-guglielmi/",
+      "twitter": "",
+      "github": "",
+      "web": ""
+    }
+  }  
 ]
