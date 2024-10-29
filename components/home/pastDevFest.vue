@@ -1,4 +1,5 @@
 <template>
+  <!-- 
   <v-container fluid>
     <v-row class="mb-0">
       <v-col md="12" sm="12" cols="12" class="text-center">
@@ -71,10 +72,10 @@
       </v-col>
     </v-row>
   </v-container>
+  -->
 </template>
 
 <script setup>
 const { mainData } = useJSONData();
 const colors = ref(["#C3ECF6", "#F8D8D8", "#FFE7A5", "#CCF6C5"]);
 </script>
-
