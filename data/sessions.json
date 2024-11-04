@@ -4,12 +4,12 @@
         "slide": "",
         "title": "Scale your project with NX",
         "description": "Are your teams or your projects growing up? Is your build slower every day and your team tired? Your projects are not well structured or do you need to split better your code?<br>Using NX all of these problems can be resolved. In this talk, I'll show you how you can improve the developer experience of your team by introducing NX.",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "03:00 PM to 03:45 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "45",
         "speakers": [
             101
         ]
@@ -19,12 +19,12 @@
         "slide": "",
         "title": "Devcontainers",
         "description": "Conteinerization applied at you development environment",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "11:15 AM to 12:00 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "45",
         "speakers": [
             102
         ]
@@ -34,12 +34,12 @@
         "slide": "",
         "title": "Evoluzione dei Motori di Ricerca: Il Ruolo Critico del RAG e dell'IA",
         "description": "Questo talk esplora il ruolo trasformativo del Retrieval-Augmented Generation (RAG) e dell'Intelligenza Artificiale (IA) nei motori di ricerca moderni. Dopo una breve riepilogo del funzionamento dei motori di ricerca tradizionali, affronteremo una panoramica dettagliata delle tecnologie dei RAG e IA, delineando i principi fondamentali e le modalità di integrazione nei sistemi di ricerca attuali prendendo come esempio Langchain. Successivamente, analizzeremo l'impatto di queste tecnologie sul miglioramento della precisione, della velocità e della personalizzazione nelle esperienze di ricerca, supportato da casi di studio e metriche di performance. Discuteremo le sfide tecniche, inclusi i problemi di scalabilità e sicurezza dei dati. Infine vedremo come queste tecnologie stiano configurando il futuro dei motori di ricerca, con un'attenzione particolare alle innovazioni in corso e alle potenziali applicazioni future. Questo talk è destinato a offrire agli ascoltatori una panoramica completa delle potenzialità e delle sfide che l'AI sta apportando nel mondo del information retrieval.",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "12:15 PM to 01:00 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "45",
         "speakers": [
             103
         ]
@@ -49,10 +49,10 @@
         "slide": "",
         "title": "Basta scimmie: diventiamo product engineers!",
         "description": "Molti sviluppatori sono stanchi di essere trattati come 'macchine sputa codice' e aspirano a un ruolo più significativo nel processo di creazione del prodotto. Desiderano essere visti come professionisti competenti e creativi, capaci di contribuire ben oltre la semplice scrittura di codice.<br>Questi professionisti vogliono essere coinvolti fin dalle prime fasi della progettazione, portando il loro punto di vista tecnico nella definizione delle caratteristiche del prodotto. Sono ansiosi di comprendere a fondo le esigenze degli utenti e le sfide aziendali che il software deve affrontare.<br>Gli sviluppatori di oggi sono pronti a espandere le proprie competenze, abbracciando aree come il design dell'esperienza utente, l'analisi dei dati e la strategia di prodotto. Vogliono partecipare attivamente alle discussioni su come il software possa risolvere problemi reali e creare valore per l'azienda e gli utenti finali.<br>Vogliono essere parte integrante del processo decisionale, non semplici esecutori di specifiche tecniche.<br>Vogliono lasciare un'impronta significativa nei progetti a cui lavorano, contribuendo con idee, creatività e una profonda comprensione sia della tecnologia che delle esigenze del business.",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "01:00 PM to 01:30 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "30",
         "speakers": [
@@ -64,12 +64,12 @@
         "slide": "",
         "title": "Dependency Injection: the deepest dive",
         "description": "We are used to think that services in angular act like a singleton, but there is more to known, in this talk i want to show you what is a provider, how to declare services with different approach and some 'unconventional' way to use services.",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "10:30 AM to 11:15 AM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "45",
         "speakers": [
             105
         ]
@@ -79,12 +79,12 @@
         "slide": "",
         "title": "Taking technical decisions reloaded",
         "description": "Cosa c'è dietro una decisione tecnica... e cosa c'è dopo?<br>Chi può influenzare una decisione e chi decisamente non dovrebbe...<br>Scopri come evitare pregiudizi e lasciare che i dati guidino le decisioni ed impariamo a progettare un framework decisionale riutilizzabile.",
-        "track": "1",
+        "track": "Track 1",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "03:45 PM to 04:30 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
-        "timeDuration": "40",
+        "timeDuration": "45",
         "speakers": [
             106
         ]
@@ -94,10 +94,10 @@
         "slide": "",
         "title": "Workshop Flutter",
         "description": "In definizione",
-        "track": "2",
+        "track": "Track 2",
         "link": "",
-        "time": "To be Dated",
-        "format": "",
+        "time": "10:30 AM to 01:30 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "180",
         "speakers": [
@@ -111,8 +111,8 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "9:00 ",
-        "format": "",
+        "time": "09:00 AM to 10:00 AM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "60",
         "speakers": [
@@ -121,12 +121,12 @@
     {
         "id": "1012",
         "slide": "",
-        "title": "PASUA CAFFE",
+        "title": "PAUSA CAFFE",
         "description": "",
         "track": "",
         "link": "",
-        "time": "12:00 ",
-        "format": "",
+        "time": "12:00 PM to 12:15 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "15",
         "speakers": [
@@ -139,8 +139,8 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "13:00 ",
-        "format": "",
+        "time": "01:30 PM to 03:00 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "90",
         "speakers": [
@@ -153,8 +153,8 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "16:30 ",
-        "format": "",
+        "time": "04:30 PM to 05:00 PM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "30",
         "speakers": [
@@ -167,10 +167,24 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "10:00 ",
-        "format": "",
+        "time": "10:00 AM to 10:30 AM (CET +1)",
+        "format": "Day 1",
         "date": "Nov 30, 2024",
         "timeDuration": "30",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1016",
+        "slide": "",
+        "title": "MATERA TOUR",
+        "description": "Scopri i Sassi di Matera: un viaggio nel cuore della storia. Questa visita guidata ai Sassi di Matera è progettata per immergere i visitatori nella straordinaria bellezza di Matera, città riconosciuta patrimonio mondiale dell’UNESCO e famosa per i suoi antichi quartieri scavati nella roccia, i Sassi. Con ingressi inclusi e una guida esperta, il nostro tour offre un’esperienza completa e avvincente, perfetta per chi desidera scoprire i segreti di una delle città più uniche al mondo.",
+        "track": "",
+        "link": "",
+        "time": "05:00 PM to 07:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Nov 30, 2024",
+        "timeDuration": "120",
         "speakers": [
         ]
     }

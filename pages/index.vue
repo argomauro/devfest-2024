@@ -4,6 +4,23 @@
       <v-row>
         <!-- Hero -->
         <HomeHeroSection class="my-0 my-md-10" />
+        <v-row class="align-center">
+          <v-col cols="8"> <!-- Colonna per il testo -->
+            <h2>
+              Non perdere l'occasione di partecipare alla DevFest Basilicata 2024!
+              <br>Prenota subito il tuo posto.
+            </h2>
+          </v-col>
+          <v-col cols="4" class="d-flex justify-start"> <!-- Colonna per il pulsante -->
+            <v-btn 
+              color="primary" 
+              @click="openRSVPLink" 
+              style="font-size: 1.5em; padding: 15px 30px; height: 60px; min-width: 120px;"
+            >
+              RSVP
+            </v-btn>
+          </v-col>
+        </v-row>
         <!-- Hero -->
 
         <!-- Stats -->

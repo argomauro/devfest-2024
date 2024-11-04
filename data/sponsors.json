@@ -3,8 +3,8 @@
       "category_name": "Sponsors della DevFest Basilicata",
       "sponsors": [
           {
-              "name":"Google For Developers",
-              "link": "https://developers.google.com",
+              "name":"GDG",
+              "link": "https://gdg.community.dev/",
               "logo": "googlefordevelopers.png"   
           },
           {
@@ -27,18 +27,6 @@
               "link": "https://www.publisys.it/",
               "logo": "sponsor4.png"   
           }
-      ]
-  },
-  {
-      "category_name": "Venue Sponsors",
-      "sponsors": [
-          
-      ]
-  },
-  {
-      "category_name": "Template Partner",
-      "sponsors": [
-         
       ]
   }
 

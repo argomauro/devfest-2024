@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid class="pa-0 ma-0" v-if="props.data" style="">
+  <v-container fluid class="pa-0 ma-0" v-if="props.data">
     <v-row
       justify-center
       align="center"
@@ -9,13 +9,13 @@
     >
       <v-col md="2" cols="3" class="text-right my-0 py-0">
         <p style="font-size: 110%" class="mb-0 google-font">
-          {{ item.startTime }} PM
+          {{ formatTime(item.startTime) }} <!-- Modificato -->
         </p>
         <p style="font-size: 70%" class="ma-0 google-font">
-          {{ item.endTime }} PM
+          {{ formatTime(item.endTime) }} <!-- Modificato -->
         </p>
         <p class="mt-1 google-font" style="font-size: 60%">
-          <b style="color: grey">GMT (+05:30)</b>
+          <b style="color: grey">CET (+01:00)</b>
         </p>
       </v-col>
       <v-col
@@ -41,11 +41,21 @@ const props = defineProps({
   },
 });
 
+// Funzione per formattare il tempo nel formato 12 ore (AM/PM)
+const formatTime = (time) => {
+  const [hours, minutes] = time.split(':');
+  const parsedHours = parseInt(hours, 10);
+  const isPM = parsedHours >= 12;
+  const formattedHours = parsedHours % 12 || 12; // Converte in formato 12 ore
+  const period = isPM ? 'PM' : 'AM';
+  
+  return `${formattedHours}:${minutes} ${period}`;
+};
+
 const getSessionData = (id) => {
   return sessionsData.filter((sd) => sd.id == id)[0];
 };
 </script>
-
 
 <style scoped>
 .schedule-details-white:hover {
