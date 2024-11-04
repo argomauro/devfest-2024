@@ -56,7 +56,9 @@ const { mainData } = useJSONData();
 definePageMeta({
   layout: false,
 });
-
+const openRSVPLink = () => {
+  window.open('https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2024/', '_blank');
+};
 useSeoMeta({
   contentType: "text/html; charset=utf-8",
   title: mainData.eventInfo.name + " | " + mainData.communityName,
