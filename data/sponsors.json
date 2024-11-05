@@ -28,6 +28,21 @@
               "logo": "sponsor4.png"   
           }
       ]
-  }
+  },
+  {
+    "category_name": "Con il patrocinio della Città di Matera",
+    "sponsors": [
+        {
+            "name":"Matera Welcome",
+            "link": "https://www.materawelcome.it/it/",
+            "logo": "logoMatera2.jpg"   
+        },
+        {
+            "name":"Comune di Matera",
+            "link": "https://www.comune.mt.it/",
+            "logo": "comunedimatera.png"   
+        }
+    ]
+}
 
 ]
