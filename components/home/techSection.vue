@@ -8,7 +8,7 @@
         >
           <h1>Rimani aggiornato sulle ultime novità in ambito IA, FrontEnd e BackEnd</h1>
           <p>
-            Quest anno a Matera tieniti al passo con le ultime innovazioni in Intelligenza Artificiale, Frontend e Backend! 
+            Quest anno a Potenza tieniti al passo con le ultime innovazioni in Intelligenza Artificiale, Frontend e Backend! 
             Partecipa a sessioni tecniche, laboratori interattivi e momenti di networking per ampliare le tue competenze e fare rete con la community.
           </p>
           <v-container fluid>

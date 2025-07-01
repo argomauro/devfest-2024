@@ -40,16 +40,16 @@
       ]
   },
   {
-    "category_name": "Con il patrocinio della Città di Matera",
+    "category_name": "Con il patrocinio della Città di Potenza",
     "sponsors": [
         {
-            "name":"Matera Welcome",
+            "name":"Potenza Welcome",
             "link": "https://www.materawelcome.it/it/",
             "logo": "logoMatera2.jpg"   
         },
         {
-            "name":"Comune di Matera",
-            "link": "https://www.comune.mt.it/",
+            "name":"Comune di Potenza",
+            "link": "https://www.comune.matera.it/",
             "logo": "comunedimatera.png"   
         }
     ]

@@ -7,7 +7,7 @@
         <v-row class="align-center">
           <v-col cols="8"> <!-- Colonna per il testo -->
             <h2>
-              Non perdere l'occasione di partecipare alla DevFest Basilicata 2024!
+              Non perdere l'occasione di partecipare alla DevFest Basilicata 2025!
               <br>Prenota subito il tuo posto.
             </h2>
           </v-col>
@@ -57,7 +57,7 @@ definePageMeta({
   layout: false,
 });
 const openRSVPLink = () => {
-  window.open('https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2024/', '_blank');
+  window.open('https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2025/', '_blank');
 };
 useSeoMeta({
   contentType: "text/html; charset=utf-8",

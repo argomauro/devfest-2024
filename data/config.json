@@ -13,16 +13,16 @@
     "youtube": "https://gdg.community.dev/gdg-basilicata/"
   },
   "eventInfo": {
-    "name": "DevFest Basilicata 2024",
-    "date": "30 Novembre, 2024",
+    "name": "DevFest Basilicata 2025",
+    "date": "11 Ottobre, 2025",
     "time": "9:00 AM - 5:00 PM CET",
     "venue": {
-      "address": "Matera",
+      "address": "Potenza",
       "map_link": "https://maps.app.goo.gl/JTV9uC9U9hsJUZV2A"
     },
     "registeration": {
       "link": "https://gdg.community.dev/",
-      "end_date": "2024-10-25"
+      "end_date": "2025-10-25"
     },
     "description": {
       "short": "Un evento annuale organizzato dal Google Developers Group in tutto il mondo per avvicinare la tecnologia agli sviluppatori. È una conferenza di un'intera giornata per sviluppatori, dove ci proponiamo di concentrarci su più tecnologie attraverso lightning talks, sessioni, workshop, ecc.",
@@ -93,6 +93,6 @@
   },
   "seo": {
     "keywords": "GDG, DevFest, Basilicata, DevFest Basilicata",
-    "hostUrl": "https://devfest-app-2024.web.app"
+    "hostUrl": "https://devfest-app-2025.web.app"
   }
 }

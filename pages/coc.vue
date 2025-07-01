@@ -5,7 +5,7 @@
         <v-col md="12">
           <h1>Code of Conduct</h1>
           <p>
-            Tutti i partecipanti all'evento DevFest 2024, inclusi i partecipanti online, lo staff dell'evento e i relatori, devono rispettare la seguente politica:
+            Tutti i partecipanti all'evento DevFest 2025, inclusi i partecipanti online, lo staff dell'evento e i relatori, devono rispettare la seguente politica:
             <ul>
               <li>Rispetto e professionalità: Trattare tutti con cortesia e rispetto.</li>
               <li>Comportamento appropriato: Evitare linguaggio e comportamenti inappropriati.</li>
