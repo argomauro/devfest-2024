@@ -12,14 +12,15 @@
         md="2"
         cols="6"
         sm="3"
-        class="text-center"
         v-for="(sponsor, indexp) in item.sponsors"
         :key="indexp"
       >
-        <div
-          style="background-color: #F3F3F3; border-radius: 15px;border: 1.5px solid black;"
-          class="pa-5"
+        <v-row
+          style="background-color: #F3F3F3; border-radius: 15px;border: 1px solid black;"
+          class="fill-height align-center ma-0"
         >
+          <v-col>
+
           <ClientOnly>
             <v-tooltip location="bottom" :key="indexp">
               <template v-slot:activator="{ props }">
@@ -30,7 +31,8 @@
               <span>{{ sponsor.name }}</span>
             </v-tooltip>
           </ClientOnly>
-        </div>
+          </v-col>
+        </v-row>
       </v-col>
     </v-row>
   </v-container>
