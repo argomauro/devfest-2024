@@ -21,7 +21,7 @@
       "map_link": "https://maps.app.goo.gl/JTV9uC9U9hsJUZV2A"
     },
     "registeration": {
-      "link": "https://gdg.community.dev/",
+      "link": "https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2025/",
       "end_date": "2025-10-25"
     },
     "description": {
@@ -36,7 +36,7 @@
         "image": "img/common/blue.png"
       },
       {
-        "name": "Participanti",
+        "name": "Partecipanti",
         "value": "200",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
