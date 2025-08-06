@@ -6,52 +6,13 @@
               "name":"GDG",
               "link": "https://gdg.community.dev/",
               "logo": "googlefordevelopers.png"   
-          },
-          {
-              "name":"prewifi",
-              "link": "https://www.prewifi.it/",
-              "logo": "https://www.prewifi.it/wp-content/uploads/2021/05/cropped-logo_prewifidef_white_bg.png"   
-          },
-          {
-              "name":"dataroute",
-              "link": "https://www.dataroute.it/",
-              "logo": "https://www.dataroute.it/wp-content/uploads/2021/03/dataroute_solo_logo.png"   
-          },
-          {
-              "name":"REXTART S.R.L.",
-              "link": "https://www.rextart.com/",
-              "logo": "rextart_logo_blue.png"   
-          },
-          {
-              "name":"LaTraccia",
-              "link": "https://latraccia.it/",
-              "logo": "sponsor3.jpg"   
-          },
-          {
-              "name":"Publisys S.P.A.",
-              "link": "https://www.publisys.it/",
-              "logo": "sponsor4.png"   
-          },
-          {
-              "name":"Evonet",
-              "link": "https://evo-net.it/",
-              "logo": "evonet.jpeg"   
-          }
+          }  
       ]
   },
   {
-    "category_name": "Con il patrocinio della Città di Potenza",
+    "category_name": "",
     "sponsors": [
-        {
-            "name":"Potenza Welcome",
-            "link": "https://www.materawelcome.it/it/",
-            "logo": "logoMatera2.jpg"   
-        },
-        {
-            "name":"Comune di Potenza",
-            "link": "https://www.comune.matera.it/",
-            "logo": "comunedimatera.png"   
-        }
+
     ]
 }
 

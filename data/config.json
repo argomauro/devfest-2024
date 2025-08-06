@@ -7,18 +7,18 @@
   "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
   "communityLinks": {
     "page": "https://gdg.community.dev/gdg-basilicata/",
-    "website": "https://gdg.community.dev/gdg-basilicata/",
-    "instagram": "https://gdg.community.dev/gdg-basilicata/",
+    "website": "https://devfest.gdgbasilicata.it/",
+    "instagram": "https://www.instagram.com/gdg_basilicata/",
     "linkedin": "https://www.linkedin.com/showcase/gdg-basilicata/",
-    "youtube": "https://gdg.community.dev/gdg-basilicata/"
+    "telegram": "https://gdg.community.dev/gdg-basilicata/"
   },
   "eventInfo": {
     "name": "DevFest Basilicata 2025",
     "date": "11 Ottobre, 2025",
     "time": "9:00 AM - 5:00 PM CET",
     "venue": {
-      "address": "Potenza",
-      "map_link": "https://maps.app.goo.gl/JTV9uC9U9hsJUZV2A"
+      "address": "Potenza, Sala Conferenza Museo Archeologico Nazionale della Basilicata “Dinu Adamesteanu”",
+      "map_link": "https://maps.app.goo.gl/V4ddaFC1nvezuLfz5"
     },
     "registeration": {
       "link": "https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2025/",
@@ -31,25 +31,25 @@
     "stats": [
       {
         "name": "Speakers",
-        "value": "6",
+        "value": "",
         "color": "#C3ECF6",
         "image": "img/common/blue.png"
       },
       {
         "name": "Partecipanti",
-        "value": "200",
+        "value": "",
         "color": "#F8D8D8",
         "image": "img/common/pink.png"
       },
       {
         "name": "Sessions",
-        "value": "7",
+        "value": "",
         "color": "#CCF6C5",
         "image": "img/common/green.png"
       },
       {
         "name": "Workshops",
-        "value": "1",
+        "value": "",
         "color": "#FFE7A5",
         "image": "img/common/yellow.png"
       }
@@ -69,7 +69,7 @@
       }
     ],
     "pastDevFest": {
-      "summery": "Questa è la prima DevFest Basilicata",
+      "summery": "Questa è la seconda DevFest Basilicata",
       "images": [],
       "stats": [
         {
