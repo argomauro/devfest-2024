@@ -1,17 +1,163 @@
 [
     {
+        "id": "1001",
+        "slide": "",
+        "title": "Crescere videogiocatrice, diventare UI Designer",
+        "description": "Crescere videogiocatrice, diventare UI Designer",
+        "track": "",
+        "link": "",
+        "time": "10:20 AM to 11:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Nov 30, 2024",
+        "timeDuration": "40",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "1002",
+        "slide": "",
+        "title": "RAG vs Fine-Tuning: L’intelligenza artificiale nei giochi narrativi",
+        "description": "Negli ultimi anni, i giochi narrativi sono diventati sempre più immersivi. Non si tratta solo di grafica o gameplay: la differenza, oggi, la fa la storia. E se la storia potesse adattarsi in tempo reale alle scelte del giocatore, generando risposte sensate, credibili e coerenti?In questo talk metto a confronto due approcci all’uso dell’intelligenza artificiale nei videogiochi: il fine-tuning, ovvero l’addestramento su misura di un modello linguistico (tipo GPT) per farlo “parlare” il linguaggio del nostro gioco, e il RAG (Retrieval-Augmented Generation), una tecnica più dinamica che unisce generazione testuale e ricerca in una base di conoscenza. Parlerò di come funzionano, cosa cambia per chi sviluppa e soprattutto per chi gioca. Ci sarà spazio per una demo tecnica, ma anche per un confronto più ampio: cosa significa davvero “dialogo” in un videogioco? Che impatto ha sulla scrittura, sul design narrativo, sull’esperienza?È un talk pensato per sviluppatori, designer, storyteller e chiunque sogni mondi in cui l’IA non è solo un nemico da battere, ma una voce che risponde, che ascolta, che evolve.",
+        "track": "",
+        "link": "",
+        "time": "11:00 AM to 11:45 AM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "45",
+        "speakers": [
+            103
+        ]
+    },
+    {
+        "id": "1003",
+        "slide": "",
+        "title": "I 7 peccati capitali del dev",
+        "description": "Essere sviluppatori oggi non significa solo scrivere codice: vuol dire destreggiarsi tra bug infernali, deadline impossibili e tentazioni tecnologiche. In questo talk esploreremo i “7 peccati capitali del Dev”, dalla superbia del “Not Invented Here” alla lussuria per l’AI di moda, passando per ira, accidia, gola e tutti gli errori in cui ci siamo riconosciuti almeno una volta. Ma non è solo satira: tra ironia e storytelling epico troveremo anche la via della redenzione, fatta di test, documentazione, collaborazione e buon senso. Una Divina Commedia del codice che farà sorridere, riflettere e – si spera – uscire dal talk con più autoironia e un pizzico di saggezza dev.",
+        "track": "",
+        "link": "",
+        "time": "12:15 PM to 01:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "45",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "1004",
+        "slide": "",
+        "title": "Attack on Python: il mio primo mese da web developer nel mondo Python",
+        "description": "Come può un web developer con anni di esperienza approcciarsi a un nuovo linguaggio? In questo talk racconterò il mio primo mese di esplorazione di Python, tra dubbi, curiosità ed “easter egg” nascosti.La sessione è divisa in due parti: 1. Quiz interattivo: scopriremo insieme le feature più divertenti e peculiari di Python, mettendo alla prova le vostre conoscenze con domande a sorpresa e aneddoti leggeri. 2. Attack on Python – il videogioco: per sfidare me stesso ho creato un semplice gioco in Python, “Attack on Python”, che farà da filo conduttore per mostrare come le basi del linguaggio si traducono in un progetto concreto.Questo talk è pensato per un’atmosfera soft e divertente: i principianti potranno apprendere i concetti fondamentali ma particolari di Python in modo pratico e coinvolgente, mentre gli sviluppatori intermediate/advanced scopriranno curiosità e trucchi meno noti. Al termine, uno spunto concreto per utilizzare python in maniera non proprio usuale, magari di ispirazione per il vostro prossimo mini-progetto.L'intervento può essere fatto anche in inglese, e può essere anche rivisitato in un Lightning Talk (portando una delle due parti)",
+        "track": "",
+        "link": "",
+        "time": "03:00 PM to 03:45 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "45",
+        "speakers": [
+            101
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Costruiamo un gioco mutiplayer di scacchi in Mixed Reality con Unity e Quest 3",
+        "description": "Immergiti nel futuro del gaming creando un gioco di scacchi multiplayer in realtà mista utilizzando Unity e il visore Meta Quest 3. Questo talk ti guiderà attraverso i concetti fondamentali e i passaggi tecnici essenziali per creare un’esperienza di scacchi dinamica e interattiva che connetta i giocatori sia nel mondo fisico che in quello digitale.Inizieremo con una panoramica delle avanzate funzionalità del Quest 3 e del loro potenziale per migliorare il gameplay multiplayer. A seguire, imposteremo l’ambiente di sviluppo in Unity, integrando gli asset necessari e l’SDK del Quest 3. Imparerai a progettare un’interfaccia utente intuitiva che sfrutta l'hand tracking per un’interazione fluida con la scacchiera e i pezzi.",
+        "track": "",
+        "link": "",
+        "time": "03:45 PM to 05:15 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "90",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Portare l'Intelligenza Artificiale negli NPC di Minecraft: Dal Concept alla Demo Interattiva",
+        "description": "In questa sessione, esploreremo come implementare l'Intelligenza Artificiale negli NPC di Minecraft. Lo speech si dividerà in due parti: una presentazione teorica e una dimostrazione pratica.Nella prima parte, illustrerò il processo tecnico di integrazione , partendo dalla configurazione di un server Minecraft  fino all'interazione con le API di  OpenAI, per rendere gli NPC 'intelligenti'. Discuteremo dei vantaggi, come la possibilità di creare NPC che rispondono dinamicamente alle richieste del giocatore, e dei rischi, come le 'allucinazioni' dell'IA, che possono generare risposte impreviste.Nella seconda parte, mostrerò concretamente come avviene la comunicazione tra il server di Minecraft e il sistema di IA, con risposte generate in tempo reale tramite la chat del gioco. I partecipanti che possiedono un PC portatile e il client di Minecraft potranno connettersi al server dove il progetto è hostato e sperimentare in prima persona come gli NPC possano rispondere alle domande grazie all'IA, vivendo un'esperienza abbastanza interessante.Già presentato alla GGJ CATANIA 2025",
+        "track": "",
+        "link": "",
+        "time": "05:15 PM to 18:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "45",
+        "speakers": [
+            103
+        ]
+    },
+    {
         "id": "1011",
         "slide": "",
-        "title": "Curious about what’s next? Follow GDG Basilicata and get a sneak peek at the upcoming Agenda!",
+        "title": "CHECK IN",
         "description": "",
         "track": "",
         "link": "",
-        "time": "",
+        "time": "09:00 AM to 10:00 AM (CET +1)",
         "format": "Day 1",
-        "date": "Oct 11, 2025",
-        "timeDuration": "",
+        "date": "Ott 11, 2025",
+        "timeDuration": "60",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1012",
+        "slide": "",
+        "title": "PRESENTAZIONE",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "10:00 AM to 10:20 AM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "20",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1013",
+        "slide": "",
+        "title": "PAUSA PRANZO",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "01:30 PM to 03:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "120",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1014",
+        "slide": "",
+        "title": "CHIUSURA",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "04:30 PM to 05:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "30",
+        "speakers": [
+        ]
+    },
+    {
+        "id": "1016",
+        "slide": "",
+        "title": "PAUSA CAFFE'",
+        "description": "",
+        "track": "",
+        "link": "",
+        "time": "05:00 PM to 07:00 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "30",
         "speakers": [
         ]
     }
-    
+
 ]

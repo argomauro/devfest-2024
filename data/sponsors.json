@@ -1,12 +1,37 @@
 [
   {
-      "category_name": "Sponsors della DevFest Basilicata",
+      "category_name": "Con la collaborazione di",
       "sponsors": [
           {
               "name":"GDG",
               "link": "https://gdg.community.dev/",
               "logo": "googlefordevelopers.png"   
-          }  
+          },
+          {
+            "name":"Associazione Culturale Nerdworks",
+            "link": "",
+            "logo": "logo_nerdworks.svg"
+          },
+          {
+            "name":"Lucania is Comics",
+            "link": "https://www.lucaniaiscomics.it/",
+            "logo": "LIC.svg"
+          },
+          {
+            "name":"Museo Archeologico Nazionale della Basilicata “Dinu Adamesteanu”",
+            "link": "https://www.museodinuadamesteanu.beniculturali.it/",
+            "logo": "MUSEO_POTENZA.svg"
+          },
+          {
+            "name":"",
+            "link": "",
+            "logo": "MUSEI_ITALIANI.svg"
+          },
+          {
+            "name":"",
+            "link": "",
+            "logo": "MIC.svg"
+          }
       ]
   },
   {
