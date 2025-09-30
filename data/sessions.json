@@ -66,7 +66,7 @@
         "description": "Immergiti nel futuro del gaming creando un gioco di scacchi multiplayer in realtà mista utilizzando Unity e il visore Meta Quest 3. Questo talk ti guiderà attraverso i concetti fondamentali e i passaggi tecnici essenziali per creare un’esperienza di scacchi dinamica e interattiva che connetta i giocatori sia nel mondo fisico che in quello digitale.Inizieremo con una panoramica delle avanzate funzionalità del Quest 3 e del loro potenziale per migliorare il gameplay multiplayer. A seguire, imposteremo l’ambiente di sviluppo in Unity, integrando gli asset necessari e l’SDK del Quest 3. Imparerai a progettare un’interfaccia utente intuitiva che sfrutta l'hand tracking per un’interazione fluida con la scacchiera e i pezzi.",
         "track": "",
         "link": "",
-        "time": "03:45 PM to 05:15 PM (CET +1)",
+        "time": "04:15 PM to 05:35 PM (CET +1)",
         "format": "Day 1",
         "date": "Ott 11, 2025",
         "timeDuration": "90",
@@ -81,12 +81,27 @@
         "description": "In questa sessione, esploreremo come implementare l'Intelligenza Artificiale negli NPC di Minecraft. Lo speech si dividerà in due parti: una presentazione teorica e una dimostrazione pratica.Nella prima parte, illustrerò il processo tecnico di integrazione , partendo dalla configurazione di un server Minecraft  fino all'interazione con le API di  OpenAI, per rendere gli NPC 'intelligenti'. Discuteremo dei vantaggi, come la possibilità di creare NPC che rispondono dinamicamente alle richieste del giocatore, e dei rischi, come le 'allucinazioni' dell'IA, che possono generare risposte impreviste.Nella seconda parte, mostrerò concretamente come avviene la comunicazione tra il server di Minecraft e il sistema di IA, con risposte generate in tempo reale tramite la chat del gioco. I partecipanti che possiedono un PC portatile e il client di Minecraft potranno connettersi al server dove il progetto è hostato e sperimentare in prima persona come gli NPC possano rispondere alle domande grazie all'IA, vivendo un'esperienza abbastanza interessante.Già presentato alla GGJ CATANIA 2025",
         "track": "",
         "link": "",
-        "time": "05:15 PM to 18:00 PM (CET +1)",
+        "time": "05:35 PM to 06:35 PM (CET +1)",
         "format": "Day 1",
         "date": "Ott 11, 2025",
         "timeDuration": "45",
         "speakers": [
             103
+        ]
+    },
+    {
+        "id": "1007",
+        "slide": "",
+        "title": "Cosa hanno in comune Flutter, Cavalli da corsa e un ultima fetta di pizza?",
+        "description": "Può un app nascere perché in ufficio è rimasta un unica fetta di pizza e tre persone tra cui dividerla? randomwinner nasce per gioco, e diventa un gioco! un semplice estrattore casuale di nomi, creato dopo un \"Giochiamocela ai cavalli\" detto per scherzo.In questo talk vedremo come realizzare da zero un app in Flutter, che a partire da una lista di nomi, genera a schermo una corsa di cavalli casuale e restituisce una lista ordinata di \"vincitori\", Vedremo come comporre il layout, gestire la logica per la casualità e come un pizzico di intelligenza artificiale servirà in futuro per rendere il tutto ancora più accattivante e personale!",
+        "track": "",
+        "link": "",
+        "time": "02:45 PM to 03:30 PM (CET +1)",
+        "format": "Day 1",
+        "date": "Ott 11, 2025",
+        "timeDuration": "45",
+        "speakers": [
+            106
         ]
     },
     {
@@ -124,10 +139,10 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "01:30 PM to 03:00 PM (CET +1)",
+        "time": "01:00 PM to 02:30 PM (CET +1)",
         "format": "Day 1",
         "date": "Ott 11, 2025",
-        "timeDuration": "120",
+        "timeDuration": "90",
         "speakers": [
         ]
     },
@@ -138,7 +153,7 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "04:30 PM to 05:00 PM (CET +1)",
+        "time": "06:20 PM to 06:30 PM (CET +1)",
         "format": "Day 1",
         "date": "Ott 11, 2025",
         "timeDuration": "30",
@@ -152,7 +167,7 @@
         "description": "",
         "track": "",
         "link": "",
-        "time": "05:00 PM to 07:00 PM (CET +1)",
+        "time": "11:45 AM to 12:15 PM (CET +1)",
         "format": "Day 1",
         "date": "Ott 11, 2025",
         "timeDuration": "30",
