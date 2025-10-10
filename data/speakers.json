@@ -35,16 +35,16 @@
   },
   {
     "id": "103",
-    "name": "Daniele Mario Areddu",
+    "name": "Maurizio Argoneto",
     "company": {
       "name": "",
-      "designation": "Freelance Full-Stack Developer | AI-ML Developer & Data Analyst| Computer Science Student @ University of Calabria | Change Model Specialist @ UNIDEA | Author"
+      "designation": "GDG Basilicata Lead"
     },
-    "community_title": "Community Lead @ Velletri-Dev",
-    "image": "https://sessionize.com/image/dbf1-400o400o1-aaRDe7ZDxqPn86foBoaeL9.jpg",
-    "bio": "Daniele Mario Areddu is a Computer Science student at the University of Calabria and a freelance developer. He works on applied Artificial Intelligence projects, focusing on the fine-tuning of language models and the development of Retrieval-Augmented Generation (RAG) systems to enable more contextual and intelligent human–machine interactions.\nIn the field of web development, he builds full-stack applications using Angular for the front-end and Node.js or Python(API REST,Flask etc.etc.) for the back-end, with a strong emphasis on scalability, maintainability, and user experience.\nHe is also passionate about game development, creating Minecraft plugins and mods in Java, and prototyping games with C++ in Unreal Engine, where he integrates AI-driven NPC behavior and advanced gameplay mechanics.\nA tech enthusiast and speaker, Daniele frequently participates in workshops, conferences, and events focused on digital innovation and AI. He is the community lead of Velletri-Dev, organizing meetups and events for students and developers in the Velletri area. He also collaborates with UNIDEA as a Change Model Specialist, promoting digital transformation and a culture of innovation",
+    "community_title": "GDG Basilicata Lead",
+    "image": "https://sessionize.com/image/2089-400o400o2-9TSA7R52yaPFRuccdyuVsz.png",
+    "bio": "Technical Project Manager | System Designer & Cloud Architecture | Guiding Tech Teams to Delivery",
     "social": {
-      "linkedin": "https://it.linkedin.com/in/daniele-mario-areddu-67729b260",
+      "linkedin": "https://www.linkedin.com/in/argomauro/",
       "twitter": "",
       "github": "",
       "web": ""

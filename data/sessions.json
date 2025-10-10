@@ -17,8 +17,8 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "RAG vs Fine-Tuning: L’intelligenza artificiale nei giochi narrativi",
-        "description": "Negli ultimi anni, i giochi narrativi sono diventati sempre più immersivi. Non si tratta solo di grafica o gameplay: la differenza, oggi, la fa la storia. E se la storia potesse adattarsi in tempo reale alle scelte del giocatore, generando risposte sensate, credibili e coerenti?In questo talk metto a confronto due approcci all’uso dell’intelligenza artificiale nei videogiochi: il fine-tuning, ovvero l’addestramento su misura di un modello linguistico (tipo GPT) per farlo “parlare” il linguaggio del nostro gioco, e il RAG (Retrieval-Augmented Generation), una tecnica più dinamica che unisce generazione testuale e ricerca in una base di conoscenza. Parlerò di come funzionano, cosa cambia per chi sviluppa e soprattutto per chi gioca. Ci sarà spazio per una demo tecnica, ma anche per un confronto più ampio: cosa significa davvero “dialogo” in un videogioco? Che impatto ha sulla scrittura, sul design narrativo, sull’esperienza?È un talk pensato per sviluppatori, designer, storyteller e chiunque sogni mondi in cui l’IA non è solo un nemico da battere, ma una voce che risponde, che ascolta, che evolve.",
+        "title": "Beyond the Prompt: Design Patterns per domare gli LLM",
+        "description": "Prompt Engineering non significa solo “scrivere bene le domande”, ma progettare l’interazione con un modello generativo come si progetterebbe un’API: in modo chiaro, riusabile e orientato al risultato. In questo talk vedremo come usare una serie di Prompt Design Patterns (Persona, Audience, Template, Recipe, ecc.) per ottenere risposte più pertinenti, strutturate e prevedibili da un LLM come ChatGPT o Gemini. Ogni pattern sarà accompagnato da esempi pratici e comparazioni tra prompt efficaci e inefficaci, per mostrare chiaramente il prima e dopo. Il talk è pensato per sviluppatori, maker e chiunque utilizzi modelli generativi per scrivere codice, generare contenuti o automatizzare processi: un approccio tecnico ma accessibile, per trasformare il prompting da arte a tecnica.",
         "track": "",
         "link": "",
         "time": "11:00 AM to 11:45 AM (CET +1)",
@@ -77,8 +77,8 @@
     {
         "id": "1006",
         "slide": "",
-        "title": "Portare l'Intelligenza Artificiale negli NPC di Minecraft: Dal Concept alla Demo Interattiva",
-        "description": "In questa sessione, esploreremo come implementare l'Intelligenza Artificiale negli NPC di Minecraft. Lo speech si dividerà in due parti: una presentazione teorica e una dimostrazione pratica.Nella prima parte, illustrerò il processo tecnico di integrazione , partendo dalla configurazione di un server Minecraft  fino all'interazione con le API di  OpenAI, per rendere gli NPC 'intelligenti'. Discuteremo dei vantaggi, come la possibilità di creare NPC che rispondono dinamicamente alle richieste del giocatore, e dei rischi, come le 'allucinazioni' dell'IA, che possono generare risposte impreviste.Nella seconda parte, mostrerò concretamente come avviene la comunicazione tra il server di Minecraft e il sistema di IA, con risposte generate in tempo reale tramite la chat del gioco. I partecipanti che possiedono un PC portatile e il client di Minecraft potranno connettersi al server dove il progetto è hostato e sperimentare in prima persona come gli NPC possano rispondere alle domande grazie all'IA, vivendo un'esperienza abbastanza interessante.Già presentato alla GGJ CATANIA 2025",
+        "title": "AI Hot Seat",
+        "description": "Dibattito in 5 round sul reale uso dell’AI in produzione. Speaker a tempo, casi concreti, metriche e processi. Dalla ROI alle automazioni, fino ai pattern di prompt: takeaway pratici da applicare subito.",
         "track": "",
         "link": "",
         "time": "05:35 PM to 06:35 PM (CET +1)",
